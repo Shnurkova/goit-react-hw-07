@@ -6,7 +6,7 @@
 }
 
 .contactlist_item {
-    border: 1px solid black;
+    border: 1px solid #F2F99C;
     border-radius: 3px;
     flex-basis: calc((100% - 24px) / 3);
     background-color: #F1F1F1;
