@@ -6,17 +6,17 @@
     margin: 0 auto;
     font: inherit;
     cursor: pointer;
-    background-color: #ec41168e;
+    background-color: #F2F99C;
     color: inherit;
 }
 
 
 .btn:hover {
-    background-color: #1976d2;
+    background-color: #D1B4F7;
     color: #fff;
 }
 
 .btn:active {
-    background-color: #1565c0;
+    background-color: #D1B4F7;
     color: #fff;
 }
